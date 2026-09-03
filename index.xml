@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HODI - Homotransphobia Detection in Italian - EVALITA 2023</title>
+    <link>https://stereoqueereval.github.io/</link>
+      <atom:link href="https://stereoqueereval.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>HODI - Homotransphobia Detection in Italian - EVALITA 2023</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debora Nozza, 2024</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>HODI - Homotransphobia Detection in Italian - EVALITA 2023</title>
+      <link>https://stereoqueereval.github.io/</link>
+    </image>
+    
+    <item>
+      <title>How to partecipate</title>
+      <link>https://stereoqueereval.github.io/important_dates/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://stereoqueereval.github.io/important_dates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About / Contact</title>
+      <link>https://stereoqueereval.github.io/contact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stereoqueereval.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get the data</title>
+      <link>https://stereoqueereval.github.io/get_the_data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stereoqueereval.github.io/get_the_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HODI task description</title>
+      <link>https://stereoqueereval.github.io/stereoqueereval/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stereoqueereval.github.io/stereoqueereval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to partecipate</title>
+      <link>https://stereoqueereval.github.io/how_to_participate/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stereoqueereval.github.io/how_to_participate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

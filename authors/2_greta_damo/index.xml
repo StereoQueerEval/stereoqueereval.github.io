@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HODI - Homotransphobia Detection in Italian - EVALITA 2023</title>
+    <link>https://stereoqueereval.github.io/authors/2_greta_damo/</link>
+      <atom:link href="https://stereoqueereval.github.io/authors/2_greta_damo/index.xml" rel="self" type="application/rss+xml" />
+    <description>HODI - Homotransphobia Detection in Italian - EVALITA 2023</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debora Nozza, 2024</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>HODI - Homotransphobia Detection in Italian - EVALITA 2023</title>
+      <link>https://stereoqueereval.github.io/authors/2_greta_damo/</link>
+    </image>
+    
+  </channel>
+</rss>
