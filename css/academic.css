@@ -114,12 +114,12 @@ a:focus,
   color: #5e17eb;
 }
 
-/* Color only the active/current-page menu item. */
-.navbar .nav-link.active,
-.navbar .nav-item.active > .nav-link,
-.navbar .nav-link[aria-current="page"],
-.navbar .nav-link[aria-current="true"],
-.navbar .dropdown-item.active,
-.navbar .dropdown-item:active {
+html body .navbar .navbar-nav .nav-link.active,
+html body .navbar .nav-link.active,
+html body .navbar .nav-item.active > .nav-link,
+html body .navbar .nav-link[aria-current="page"],
+html body .navbar .nav-link[aria-current="true"],
+html body .navbar .dropdown-item.active,
+html body .navbar .dropdown-item:active {
   color: #5e17eb !important;
 }
