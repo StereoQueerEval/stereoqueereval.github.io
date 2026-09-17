@@ -57,6 +57,24 @@ h6,
   font-family: "Google Sans", sans-serif !important;
 }
 
+footer.site-footer,
+footer.site-footer * {
+  font-family: "Google Sans", sans-serif !important;
+}
+
+.fa,
+.fas,
+.far,
+.fal,
+.fab,
+.ai,
+[class^="fa-"],
+[class*=" fa-"],
+[class^="ai-"],
+[class*=" ai-"] {
+  font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands", "Academicons" !important;
+}
+
 /* Violet links. */
 a,
 .btn-link {
@@ -67,7 +85,7 @@ a:hover,
 a:focus,
 .btn-link:hover,
 .btn-link:focus {
-  color: #4b12bc;
+  color: #cb6ce6;
 }
 
 /* Keep the navigation bar itself unchanged.
@@ -79,8 +97,6 @@ a:focus,
 .navbar .dropdown-item.active,
 .navbar .dropdown-item:active {
   color: #fff !important;
-  background-color: #cb6ce6 !important;
-  border-color: #cb6ce6 !important;
 }
 
 /* Support themes/components that mark the active item
@@ -98,5 +114,4 @@ a:focus,
 .navbar .nav-link[aria-current="page"]:hover,
 .navbar .nav-link[aria-current="true"]:hover {
   color: #fff !important;
-  background-color: #cb6ce6 !important;
 }
