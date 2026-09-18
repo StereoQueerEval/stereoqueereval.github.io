@@ -124,6 +124,12 @@ html body .navbar .dropdown-item:active {
   color: #5e17eb !important;
 }
 
-li + li {
+.my-list li {
   margin-bottom: 10px;
+}
+
+.my-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
