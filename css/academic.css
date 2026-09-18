@@ -123,3 +123,7 @@ html body .navbar .dropdown-item.active,
 html body .navbar .dropdown-item:active {
   color: #5e17eb !important;
 }
+
+li {
+    margin-bottom: 10px;
+}
